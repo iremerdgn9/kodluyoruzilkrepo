@@ -29,5 +29,7 @@ pull requestler kabul edilir. büyük değişiklikler için, lütfen önce neyi 
 
 ![resim](https://picsum.photos/400/300)
 
+-[Patika Linkim](https://app.patika.dev/iremerdgn)
+
 
 
