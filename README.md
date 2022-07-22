@@ -27,7 +27,7 @@ pull requestler kabul edilir. büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![resim](https://picsum.photos/400/300)
+![img](https://i.hizliresim.com/i1e4cna.png)
 
 -[Patika Linkim](https://app.patika.dev/iremerdgn)
 
