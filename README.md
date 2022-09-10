@@ -1,5 +1,8 @@
 # kodluyoruzilkrepo
 [Kodluyoruz](kodluyoruz.org) Front-End Eğitimi kapsamında açtığım ilk repo.
+
+-[Patika Linkim](https://app.patika.dev/iremerdgn)
+
 İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ## installation
 ***
@@ -28,9 +31,6 @@ pull requestler kabul edilir. büyük değişiklikler için, lütfen önce neyi 
 
 
 ![img](https://i.hizliresim.com/i1e4cna.png)
-
--[Patika Linkim](https://app.patika.dev/iremerdgn)
-
 
 
 Deneme
